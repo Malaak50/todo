@@ -123,4 +123,3 @@ http://localhost:3000
 ---
 
 
-💡 Pour un portfolio recruteur, ajoute un GIF ou une capture d'écran de l'application juste sous la section Présentation afin de montrer immédiatement le fonctionnement du projet.
